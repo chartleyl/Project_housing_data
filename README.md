@@ -87,7 +87,7 @@ Ce projet inclut un examen de 12 questions qui a été réalisé dans le cadre d
 J'ai obtenu ma certification pour le cours *Introduction à la programmation R* grâce à la réussite de cet examen.
 
 ### Vidéo explicative
-Pour une explication détaillée de ce projet et des concepts abordés, vous pouvez consulter la vidéo explicative [ici](My_housingProject_video).
+Pour une explication détaillée de ce projet et des concepts abordés, vous pouvez consulter la vidéo explicative [ici](https://github.com/chartleyl/Project_housing_data/raw/master/My_housingProject_video.mp4).
 
 ## **Pré-requis**
 ### **Outils**
